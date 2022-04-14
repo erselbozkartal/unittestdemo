@@ -1,0 +1,10 @@
+C:\Users\Ersel\Source\Repos\Unittest_Demo\Integrations\bin\Debug\netcoreapp3.1\Integrations.deps.json
+C:\Users\Ersel\Source\Repos\Unittest_Demo\Integrations\bin\Debug\netcoreapp3.1\Integrations.dll
+C:\Users\Ersel\Source\Repos\Unittest_Demo\Integrations\bin\Debug\netcoreapp3.1\Integrations.pdb
+C:\Users\Ersel\Source\Repos\Unittest_Demo\Integrations\obj\Debug\netcoreapp3.1\Integrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersel\Source\Repos\Unittest_Demo\Integrations\obj\Debug\netcoreapp3.1\Integrations.AssemblyInfoInputs.cache
+C:\Users\Ersel\Source\Repos\Unittest_Demo\Integrations\obj\Debug\netcoreapp3.1\Integrations.AssemblyInfo.cs
+C:\Users\Ersel\Source\Repos\Unittest_Demo\Integrations\obj\Debug\netcoreapp3.1\Integrations.csproj.CoreCompileInputs.cache
+C:\Users\Ersel\Source\Repos\Unittest_Demo\Integrations\obj\Debug\netcoreapp3.1\Integrations.dll
+C:\Users\Ersel\Source\Repos\Unittest_Demo\Integrations\obj\Debug\netcoreapp3.1\Integrations.pdb
+C:\Users\Ersel\Source\Repos\Unittest_Demo\Integrations\obj\Debug\netcoreapp3.1\Integrations.csproj.AssemblyReference.cache
